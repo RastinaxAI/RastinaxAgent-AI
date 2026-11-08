@@ -4,5 +4,3 @@ pydantic==2.10.6
 openai==1.63.2
 python-dotenv==1.0.1
 httpx==0.28.1
-langchain-core==0.3.35
-langchain-openai==0.3.6
